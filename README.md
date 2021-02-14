@@ -32,7 +32,7 @@ The software which tracks and stores an employee work hours.
 4. The software shall be accessible for non-IT specialists.
 
 ## Implementation
-Programming languages: Python for backend, HTML/CSS/JS for frontend
-Database engine: SQLite
+* Programming languages: Python for backend, HTML/CSS/JS for frontend
+* Database engine: SQLite
 
 Since our project is just a prototype, we chose SQLite for its simplicity and ease of use. Compared to other database engines such as Oracle, it doesn't require extensive setup and seperate daemon to work but just one file. 
